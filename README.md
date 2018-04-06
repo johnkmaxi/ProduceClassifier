@@ -1,4 +1,5 @@
 # ProduceClassifier
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1214245.svg)](https://doi.org/10.5281/zenodo.1214245)
 Detect various fruit and vegetables in images
 This project provides the data and code necessary to create and train a
 convolutional neural network for recognizing images of produce. The code is
